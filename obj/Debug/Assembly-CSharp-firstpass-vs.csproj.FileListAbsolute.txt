@@ -1,0 +1,12 @@
+C:\Users\Logie\Desktop\Dethrone Project\Dethrone\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Logie\Desktop\Dethrone Project\Dethrone\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Logie\Desktop\Dethrone Project\Dethrone\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Logie\Desktop\Dethrone Project\Dethrone\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Logie\Desktop\Dethrone Project\Dethrone\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Logie\Desktop\Dethrone Project\Dethrone\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Logie\Desktop\Dethrone Project\Dethrone\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Logie\Desktop\Dethrone Project\Dethrone\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Logie\Desktop\Dethrone Project\Dethrone\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Logie\Desktop\Dethrone Project\Dethrone\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Logie\Desktop\Dethrone Project\Dethrone\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Logie\Desktop\Dethrone Project\Dethrone\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache

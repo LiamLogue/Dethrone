@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\HUD\HUDManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Player\Player.cs" Line="287" Column="20" />
+      <File FileName="Assets\Scripts\Enemies\Enemy.cs" Line="358" Column="20" />
+      <File FileName="Assets\Scripts\Enemies\AbilityControllerEnemy.cs" Line="10" Column="36" />
+      <File FileName="Assets\Scripts\Misc\AbilityUseController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemies\ZombieGeneralBuff.cs" Line="10" Column="31" />
+      <File FileName="Assets\Scripts\HUD\HUDManager.cs" Line="76" Column="1" />
+      <File FileName="Assets\Scripts\Misc\CombatTextController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HUD\DirectionIndicatorRotation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Potions\PickupItem.cs" Line="89" Column="3" />
+      <File FileName="Assets\Scripts\Menus\MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HUD\PauseMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Camera\Camera_Follow.cs" Line="10" Column="27" />
+      <File FileName="Assets\Scripts\Player\AbilityCooldownController.cs" Line="12" Column="39" />
+      <File FileName="Assets\Scripts\Player\AbilityController.cs" Line="9" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
